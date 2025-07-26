@@ -1,0 +1,6 @@
+Name=input("Enter name:")
+Age=input("Enter age:")
+Address=input("Enter address :")
+print("Name of the candidate:",Name)
+print("Age of the candidate:",Age)
+print("Address of the candidate:",Address)
