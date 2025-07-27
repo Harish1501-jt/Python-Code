@@ -1,0 +1,6 @@
+Name=input("Enter name of the candidate:")
+Score=int(input("Enter score of the candidate:"))
+Dept=input("Enter department of the candidate:")
+print("The name of the candidate is ", Name)
+print("The score of the candidate is /10 ", Score/10)
+print("The department of the candidate is ", Dept)
