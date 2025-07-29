@@ -1,0 +1,5 @@
+CSK="Win"
+if(CSK=="Win"):
+    print("CSK than Gethu")
+else:
+    print("Next time pathukalam")
