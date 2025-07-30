@@ -1,0 +1,6 @@
+Womenname = input("Enter the name:")
+if(Womenname=="Meghna"):
+    print("She is my wife")
+else:
+    print("She Broke up with me")
+
